@@ -1,0 +1,6 @@
+module Task2_pt1
+typeinfo appTask2_pt1.qmltypes
+prefer :/qt/qml/Task2_pt1/
+Main 254.0 Main.qml
+depends QtQuick
+

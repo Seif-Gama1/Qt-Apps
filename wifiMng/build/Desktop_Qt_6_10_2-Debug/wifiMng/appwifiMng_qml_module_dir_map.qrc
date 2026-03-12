@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/wifiMng">/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/wifiMng</file>
+
+  </qresource>
+</RCC>

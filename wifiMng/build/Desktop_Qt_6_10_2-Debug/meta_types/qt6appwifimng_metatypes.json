@@ -1,0 +1,193 @@
+[
+    {
+        "classes": [
+            {
+                "className": "NetworkBackend",
+                "lineNumber": 7,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "lineNumber": 17,
+                        "name": "scanNetworks",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "ssid",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 5,
+                        "lineNumber": 18,
+                        "name": "connectWifi",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "enabled",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 6,
+                        "lineNumber": 19,
+                        "name": "toggleWifi",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "lineNumber": 20,
+                        "name": "checkWifiStatus",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "lineNumber": 24,
+                        "name": "scanBluetooth",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "enabled",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 9,
+                        "lineNumber": 25,
+                        "name": "toggleBluetooth",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "address",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 10,
+                        "lineNumber": 26,
+                        "name": "connectBluetooth",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 11,
+                        "lineNumber": 27,
+                        "name": "checkBluetoothStatus",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "address",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 12,
+                        "lineNumber": 28,
+                        "name": "disconnectBluetooth",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 9,
+                        "name": "wifiNetworks",
+                        "notify": "wifiNetworksChanged",
+                        "read": "wifiNetworks",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 10,
+                        "name": "bluetoothDevices",
+                        "notify": "bluetoothDevicesChanged",
+                        "read": "bluetoothDevices",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "NetworkBackend",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 31,
+                        "name": "wifiNetworksChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "enabled",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 32,
+                        "name": "wifiStatusChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 34,
+                        "name": "bluetoothDevicesChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "enabled",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 35,
+                        "name": "bluetoothStatusChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "networkbackend.h",
+        "outputRevision": 69
+    }
+]

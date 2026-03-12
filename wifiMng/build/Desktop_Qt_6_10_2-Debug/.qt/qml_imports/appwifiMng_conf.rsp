@@ -1,0 +1,14 @@
+-rootPath
+/home/seif/workspace/qt/wifiMng
+-cmake-output
+-output-file
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/.qt/qml_imports/appwifiMng_conf.cmake
+-importPath
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug
+-importPath
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/wifiMng
+-importPath
+/home/seif/Qt/6.10.2/gcc_64/qml
+-qrcFiles
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_wifiMng.qrc
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appwifiMng_raw_qml_0.qrc

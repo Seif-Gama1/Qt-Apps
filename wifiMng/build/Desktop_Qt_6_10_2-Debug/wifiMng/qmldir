@@ -1,0 +1,6 @@
+module wifiMng
+typeinfo appwifiMng.qmltypes
+prefer :/qt/qml/wifiMng/
+Main 254.0 Main.qml
+depends QtQuick
+

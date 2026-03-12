@@ -1,0 +1,14 @@
+-I
+/home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug/Task2_pt1
+-I
+/home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/seif/Qt/6.10.2/gcc_64/qml
+--resource
+/home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_Task2_pt1.qrc
+--resource
+/home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appTask2_pt1_raw_qml_0.qrc
+--module
+Task2_pt1

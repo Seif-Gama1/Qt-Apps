@@ -1,0 +1,14 @@
+--bare
+-I
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/wifiMng
+-I
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug
+-I
+/home/seif/Qt/6.10.2/gcc_64/qml
+--resource
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_wifiMng.qrc
+--resource
+/home/seif/workspace/qt/wifiMng/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appwifiMng_raw_qml_0.qrc
+/home/seif/workspace/qt/wifiMng/Main.qml

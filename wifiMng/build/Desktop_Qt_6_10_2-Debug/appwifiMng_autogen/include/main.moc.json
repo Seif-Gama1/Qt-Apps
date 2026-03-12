@@ -1,0 +1,83 @@
+{
+    "classes": [
+        {
+            "className": "NetworkBackend",
+            "lineNumber": 8,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 10,
+                    "name": "wifiNetworks",
+                    "notify": "wifiNetworksChanged",
+                    "read": "wifiNetworks",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "NetworkBackend",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 32,
+                    "name": "wifiNetworksChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 18,
+                    "name": "scanNetworks",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "ssid",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "password",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 23,
+                    "name": "connectWifi",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "enabled",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 27,
+                    "name": "toggleWifi",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "main.cpp",
+    "outputRevision": 69
+}

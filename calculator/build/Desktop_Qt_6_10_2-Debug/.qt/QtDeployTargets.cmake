@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appTask2_pt1_FILE /home/seif/workspace/qt/Task2_pt1/build/Desktop_Qt_6_10_2-Debug/appTask2_pt1)
+set(__QT_DEPLOY_TARGET_appTask2_pt1_TYPE EXECUTABLE)

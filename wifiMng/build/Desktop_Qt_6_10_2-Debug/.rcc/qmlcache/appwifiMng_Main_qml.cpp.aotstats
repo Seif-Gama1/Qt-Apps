@@ -1,0 +1,407 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 11,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 19,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "onWifiStatusChanged",
+                            "line": 20,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "onBluetoothStatusChanged",
+                            "line": 23,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "currentIndex",
+                            "line": 41,
+                            "message": "Cannot retrieve a non-object type by ID: bar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 52,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 59,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 64,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 65,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 75,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 78,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "parts",
+                            "line": 81,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "isActive",
+                            "line": 82,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/seif/workspace/qt/wifiMng/Main.qml)::parts with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "ssid",
+                            "line": 83,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/seif/workspace/qt/wifiMng/Main.qml)::parts with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 86,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 87,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 92,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 98,
+                            "message": "Cannot access value for name ssid"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 101,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "bold",
+                            "line": 99,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 105,
+                            "message": "Cannot access value for name parts"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 107,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 108,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 112,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "highlighted",
+                            "line": 114,
+                            "message": "Could not find property \"highlighted\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 115,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 128,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 129,
+                            "message": "Could not find property \"visible\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 127,
+                            "message": "Could not find property \"centerIn\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 142,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 148,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 152,
+                            "message": "Could not find property \"enabled\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 153,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 163,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 165,
+                            "message": "Could not find property \"width\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "parts",
+                            "line": 168,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "isActive",
+                            "line": 169,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/seif/workspace/qt/wifiMng/Main.qml)::parts with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "deviceAddr",
+                            "line": 170,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/seif/workspace/qt/wifiMng/Main.qml)::parts with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "deviceName",
+                            "line": 171,
+                            "message": "Cannot generate efficient code for LoadElement with non-list base type (component in /home/seif/workspace/qt/wifiMng/Main.qml)::parts with type QVariant (adjusted to QJSValue, stored as QJSValue)"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 174,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 175,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 180,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 184,
+                            "message": "Cannot access value for name deviceName"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "bold",
+                            "line": 185,
+                            "message": "Cannot access value for name isActive"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 189,
+                            "message": "Cannot access value for name deviceAddr"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 194,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "highlighted",
+                            "line": 195,
+                            "message": "Could not find property \"highlighted\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 196,
+                            "message": "Could not find signal \"clicked\"."
+                        }
+                    ],
+                    "filePath": "/home/seif/workspace/qt/wifiMng/Main.qml"
+                }
+            ],
+            "moduleId": "wifiMng(appwifiMng)"
+        }
+    ]
+}
