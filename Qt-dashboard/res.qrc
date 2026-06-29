@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>giphy.gif</file>
+        <file>windows-xp-startup.wav</file>
+        <file>cat_meow_x.wav</file>
+        <file>splash_scr_audio.wav</file>
+        <file>splash_screen.gif</file>
+        <file>gallery.png</file>
+        <file>info.png</file>
+        <file>cloudy.png</file>
+    </qresource>
+</RCC>

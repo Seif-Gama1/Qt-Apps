@@ -1,0 +1,26 @@
+# Qt Creator build folders
+build/
+build-*/
+
+# Generated Qt files
+*.pro.user
+*.autosave
+.qtc_clangd/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Qt generated
+moc_*
+ui_*.h
+qrc_*.cpp
+
+# Debug/Release
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
