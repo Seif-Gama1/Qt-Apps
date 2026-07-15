@@ -3,8 +3,7 @@
 A Qt 6 / QML-based digital instrument cluster for an automotive dashboard. Simulates a real-time car instrument panel with animated gauges, driving modes, turn signals, warning indicators, tire pressure monitoring, and a 2D animated car-on-road visualization.
 
 ## Demo
-
-https://github.com/user-attachments/assets/19d6e62f-7f10-42c1-8262-dfeb6ab9b15f
+N/A
 
 ## Features
 
